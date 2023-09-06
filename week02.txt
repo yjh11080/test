@@ -1,0 +1,14 @@
+week02
+- linux commands
+  ls, ls -a, ls -l
+  pwd, cd .git.., touch week01.txt
+  vi week01.txt, vi week02.txt
+
+- git commands
+  git init
+  git status
+  git add week01.txt
+  git cinfig --global user.email "~~~@~~.com"
+  git cinfig --global user.name "~~~"
+  git commit -m "v0"
+
